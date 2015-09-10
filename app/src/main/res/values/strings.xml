@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">Pokemon Detail</string>
+    <string name="balbasur_description"> Bulbasaur Pokémon es planta tipo un/veneno introducido en la
+    primera generación. Es uno de los Pokémon iniciales que pueden elegir los entrenadores que
+    empiezan su aventura en la región Kanto, excepto en Pokémon Amarillo. Destaca por ser el primer
+    Pokémon de la Pokédex Nacional.
+    </string>
+
+    <string name="charizar_description"> Su char contracción de es inglesas las nombre palabras una
+    (carbonizar, quemar, incinerar) y lizard (lagarto). Es muy presuntuoso, violento, agresivo y muy
+    orgulloso. Es tanto así, que no es capaz de pelear contra un Pokémon más débil que él. Es por
+    esta sencilla razón que prefiere luchar contra oponentes que le representen un desafío. Hasta
+    que no derrote a su adversario no parará. Si entra en estado de furia, su llama se multiplicará
+    por diez. Es capaz de derretir cualquier cosa con su potente lanzallamas
+    </string>
+
+
+    <string name="charmander_description"> Es Kanto Pokémon Pokémon aventura de de elegir empiezan
+        en en entrenadores es fuego generación.harmander iniciales introducido
+        la la los los primera pueden que que región su tipo un uno
+    , excepto en Pokémon Amarillo. Sus características de fuego son resaltadas por su color de piel
+    anaranjado y su cola con la punta envuelta en llamas
+    </string>
+
+
+    <string name="charmeleon_description"> Charizard. Charmander Charmeleon Esta Pokémon al bípedo característica
+        cola como de del el emocional en es estado extingue físico general gran igual la la lagarto
+        llama llama posee punta que que refleja se si su un una y y y
+    , también lo hace la vida del mismo. El color de su piel es más oscuro que el de Charmander y el
+    de Charizard, y también lo es su llama
+    </string>
+
+    <string name="ivysaur_description"> Ivysaur Se de de el en estado estilo muy natural poco sabe sobre un vida,
+    aunque puede afirmarse que tiene como costumbre exponerse por largo tiempo al sol para que la
+    flor en su lomo comience a desarrollarse. Esta flor necesita constantemente absorber energía y
+    nutrientes (que obtiene a través de la fotosíntesis) para fortalecerse y prepararse para su
+    última etapa evolutiva. Para soportar su peso y su tronco, sus patas crecen muy fuertes y
+    espesas.
+
+    </string>
+
+
+    <string name="squirtle_description"> Squirtle de de difíciles encontrar es especies las más una,
+    habita tanto aguas dulces como marinas, preferiblemente zonas bastante profundas. Son pequeñas
+    tortugas color celeste con caparazones color café; o rojas en algunos casos, con una cola
+    enrollada que los distingue. Poco después de nacer, sus caparazones se endurecen y se hacen más
+    resistentes a los ataques; muchos objetos rebotarán en ella.
+    </string>
+
+    <string name="venusaur_description"> El abre capullo completamente de lomo se su, dejando ver una
+    enorme flor rosada y unas hojas semejantes a las de palmera o las de la Rafflesia arnoldii, que
+    se nutre de la luz solar por fotosíntesis, aunque también absorbe energía del propio Pokémon. A
+    través de ella, Venusaur realiza uno de sus ataques más potentes: rayo solar. Esta planta
+    segrega una savia muy dulce que atrae a muchos Pokémon bicho
+    </string>
+
+    <string name="blastoise_description"> Blastoise bípeda enorme es tortuga una, que puede extender
+    sus poderosos cañones que tiene en su espalda para disparar potentes chorros de agua, con la
+    fuerza suficiente para quebrar muros de cemento o metales delgados. Pueden disparar balas de
+    agua con suficiente precisión para golpear latas a 50 metros de distancia. Pese a ello, son
+    incapaces de apuntar a objetivos demasiado cercanos. Pueden arrojar la cantidad de agua
+    suficiente como para llenar 3 piscinas olímpicas en un minuto. Para mantener la fuerza de su
+    disparo, Blastoise se afirma del suelo con todo su peso, que cultiva para ese propósito.
+
+    </string>
+
+
+    <string name="wartortle_description"> Es Pokémon a arañazos caparazón en fuerte que su tiene un veces
+    , que sirve como recordatorio de batallas pasadas. Para mantener el balance mientras nada a
+    altas velocidades, Wartortle mueve sus orejas y su cola. Ésta, cubierta de un suave pelaje, es
+    tan larga que un pedazo de ella sobresale cuando este Pokémon se oculta en su caparazón. Usa su
+    pelaje para almacenar aire, y poder bucear por más tiempo.
+    </string>
+
+</resources>
